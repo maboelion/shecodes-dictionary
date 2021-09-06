@@ -4,12 +4,10 @@
 }
 
 .Results .Phonetics .word {
-	opacity: 70%;
 	font-size: 18px;
 }
 
 .Results .Phonetics audio {
-	opacity: 50%;
 	margin: 10px;
 	border-radius: 5px;
 }
