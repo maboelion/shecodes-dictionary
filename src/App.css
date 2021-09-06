@@ -1,3 +1,17 @@
 .App {
+	background: #d0f9c5;
+}
+
+.App h1 {
 	text-align: center;
+	padding-top: 30px;
+}
+
+.App section {
+	max-width: 1000px;
+	background: white;
+	margin: 20px auto;
+	padding: 30px;
+	border-radius: 5px;
+	border: 1px solid rgb(61, 102, 49, 0.8);
 }

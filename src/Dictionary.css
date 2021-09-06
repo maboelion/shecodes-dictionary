@@ -1,0 +1,23 @@
+.Dictionary {
+	text-align: center;
+}
+
+.Dictionary input {
+	width: 50%;
+	display: block;
+	margin: 0 auto;
+	font-size: 22px;
+	color: rgb(0, 0, 0, 0.7);
+	padding: 5px 10px;
+	border-radius: 5px;
+	text-align: center;
+}
+
+.Dictionary .question {
+	font-size: 28px;
+	margin-bottom: 15px;
+}
+
+.Dictionary .search span {
+	color: rgb(61, 102, 49);
+}

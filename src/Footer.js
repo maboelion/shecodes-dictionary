@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Footer() {
 	return (
-		<div className="Footer mt-5">
+		<div className="Footer mt-5 text-center pb-3">
 			<p>
 				<a
 					href="https://github.com/maboelion/shecodes-dictionary"

@@ -1,0 +1,15 @@
+.Results h2 {
+	font-weight: bold;
+	font-size: 32px;
+}
+
+.Results .Phonetics .word {
+	opacity: 70%;
+	font-size: 18px;
+}
+
+.Results .Phonetics audio {
+	opacity: 50%;
+	margin: 10px;
+	border-radius: 5px;
+}

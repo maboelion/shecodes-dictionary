@@ -1,0 +1,25 @@
+.Meaning {
+	text-align: left;
+}
+
+.Meaning h3 {
+	font-weight: 600;
+}
+
+.Meaning .definition {
+	font-size: 18px;
+}
+
+.Meaning .Synonyms ul {
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+
+.Meaning .Synonyms li {
+	list-style: none;
+	display: inline-block;
+	margin-right: 15px;
+	opacity: 80%;
+	color: rgb(61, 102, 49);
+}
