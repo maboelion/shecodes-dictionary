@@ -58,7 +58,8 @@ export default function Dictionary() {
 					<span>e.g. alpaca, sunrise, dream, ...</span>
 					<br />
 					<span>
-						note: you can't use names like "London", "Andes", "Hercules" etc.
+						note: you can't use proper nouns like "London", "Andes", "Hercules"
+						etc.
 					</span>
 				</section>
 				<Results results={results} />

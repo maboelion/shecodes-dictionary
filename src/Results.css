@@ -1,6 +1,6 @@
 .Results h2 {
 	font-weight: bold;
-	font-size: 32px;
+	font-size: 36px;
 }
 
 .Results .Phonetics .word {
@@ -8,6 +8,6 @@
 }
 
 .Results .Phonetics audio {
-	margin: 10px;
+	margin-top: 10px;
 	border-radius: 5px;
 }
